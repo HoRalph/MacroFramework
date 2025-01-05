@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MacroFramework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e964750e48549b27858b5f383195ae5464b6c74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f042ff51627338d1cecec4675e57f20a8a8b4fbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("MacroFramework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MacroFramework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
